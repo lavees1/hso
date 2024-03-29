@@ -805,6 +805,13 @@
                     ]
                 }
             ]
+        },
+        {
+            "key": "4c1183a8-10aa-42e4-b470-76f59e604c7d",
+            "title": "شريط اعلانى",
+            "icon": "sicon-store",
+            "path": "1",
+            "fields": []
         }
     ],
     "support_url": "https://salla.com/",
